@@ -1,2 +1,3 @@
 # demo-repo
-Augusto Means
+Intro to Git and Github
+Lane tech
